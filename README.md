@@ -18,7 +18,12 @@ Concepts: TensorFlow, Keras, MobileNetV2 (ImageNet pretrained)
 2. Make sure the .tflite model file is placed in the assets/ folder
 3. Connect an Android device or start an emulator
 4. Click Run to build and deploy the app
-   
+
+--- 
+## The app perview:
+
+<img src="00. Asset/01. App Default.png" width="200" alt="Alt text"> <img src="00. Asset/02. App runn 1.png" width="200" alt="Alt text"> <img src="00. Asset/03. App run 2.png" width="200" alt="Alt text">
+
 ---
  
 *For questions or feedback, feel free to open an issue or reach out via GitHub.*
