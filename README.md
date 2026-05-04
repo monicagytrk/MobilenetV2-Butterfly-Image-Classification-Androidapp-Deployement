@@ -1,4 +1,4 @@
-# Project Overview
+# MobilenetV2 Butterfly Image Classification Androidapp Deployement
 This project builds an end-to-end image classification pipeline, from model training to real-world mobile deployment. The goal is to identify butterfly species from photos taken directly from an Android device camera or gallery.
 
 **Why MobileNetV2?**
