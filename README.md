@@ -12,6 +12,19 @@ Language: Python, Java/Kotlin
 Concepts: TensorFlow, Keras, MobileNetV2 (ImageNet pretrained)
 
 ---
+## Methodology
+
+<img src="00. Asset/05. Method 2.jpg" width="1000" alt="Alt text">
+
+<img src="00. Asset/04. Method 1.jpg" width="1000" alt="Alt text">
+
+<img src="00. Asset/06. Method 3.jpg" width="1000" alt="Alt text">
+
+---
+## Model Evaluation
+
+
+---
 ## How to Run The App? 
 
 1. Open 04. Android App Deployment directory/ in Android Studio
