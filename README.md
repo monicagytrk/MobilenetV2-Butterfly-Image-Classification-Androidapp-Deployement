@@ -4,8 +4,7 @@ This project builds an end-to-end image classification pipeline, from model trai
 **Why MobileNetV2?**
 MobileNetV2 is a lightweight CNN architecture optimized for mobile and embedded vision applications. It achieves high accuracy with significantly fewer parameters compared to heavier models like VGG or ResNet — making it ideal for on-device inference on Android.
 
----
-## Skills & Tools
+### Skills & Tools
 
 Language: Python, Java/Kotlin
 
@@ -13,6 +12,9 @@ Concepts: TensorFlow, Keras, MobileNetV2 (ImageNet pretrained)
 
 ---
 ## Methodology
+
+The training phase for this project involves processing 6,499 images through a series of data augmentation and deep learning techniques to optimize the MobileNetV2 model for butterfly classification.
+Here is the breakdown of the process:
 
 <img src="00. Asset/05. Method 2.jpg" width="1000" alt="Alt text">
 
@@ -23,6 +25,7 @@ Concepts: TensorFlow, Keras, MobileNetV2 (ImageNet pretrained)
 ---
 ## Model Evaluation
 
+<img src="00. Asset/07. Evaluation.jpg" width="1000" alt="Alt text">
 
 ---
 ## How to Run The App? 
